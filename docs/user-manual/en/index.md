@@ -2,6 +2,9 @@
 
 ## Cover
 
+
+![](../../assets/images/ce13f776-26b4-4cf6-8a77-1d9748c98e4e.jpg)
+
 ### **Table of Contents**
 
 1. Introduction - P. 02
@@ -85,6 +88,9 @@ Please strictly follow these safety instructions to ensure operational safety an
 
 ### 3.1 System Architecture
 
+![](../../assets/images/2d4ab7dd-334a-4ff4-9b70-751986f140d4.png)
+
+
 ### 3.2 Main Components of the Monitoring Module
 
 - Component function descriptions
@@ -97,6 +103,9 @@ Please strictly follow these safety instructions to ensure operational safety an
 - **Power Wiring Instructions**
 
 4.2 Sensor Installation (Position Selection & Mounting Methods)
+
+![](../../assets/images/1c15d3ca-264c-40ef-ab27-a2a363893dd2.png)
+
 
 #### 4.2.1 Installation Position Guide
 
@@ -132,6 +141,9 @@ To ensure data accuracy and long-term stable operation, sensors must be mounted 
 
 ### 4.3 Network & Communication Setup
 
+![](../../assets/images/c105216e-8645-4302-a4bb-440832a2ab64.webp)
+
+
 - 4.3.1 Basic Network Requirements
 - **Hardware Configuration:**
 - **Service Description:**
@@ -157,6 +169,9 @@ This guide provides complete network and communication setup instructions to ens
 
 #### 4.4.1 Tri-Color Status Light
 
+![](../../assets/images/791bc0cd-3312-47e1-b05f-05213e7cfa86.png)
+
+
 The tri-color status light (red, yellow, green) provides real-time equipment operation status display, helping on-site personnel quickly assess equipment health and anomaly alerts. Proper installation positioning ensures clear light visibility for improved operational efficiency and safety.
 
 - **Installation Position Recommendations**
@@ -169,6 +184,9 @@ Please refer to the "Network & Communication Setup" section.
 
 #### 4.4.3 Touch Display
 
+![](../../assets/images/d2c1961b-4ee3-429a-8b15-13d2109fe8e8.png)
+
+
 The touch display provides an intuitive operation interface for on-site personnel to view real-time equipment data, alert status, and historical records, as well as perform basic system settings and controls.
 
 - **Installation Instructions**
@@ -177,12 +195,18 @@ The touch display provides an intuitive operation interface for on-site personne
 
 #### 4.4.4 High-Precision RJ45 CT Input Power Meter
 
+![](../../assets/images/aebc6493-3fb1-4ef3-a6f3-40226d6d0ff8.png)
+
+
 - **Installation Instructions**
 - **Precautions**
 
 ## Hardware Setup & Startup
 
 ### 5.1 System Startup Procedure
+
+![](../../assets/images/7fdb32a2-1a09-4e4e-b716-fd95ca9eec17.png)
+
 
 After 110V/220V power installation is complete, flip the switch upward to power on.
 
@@ -206,6 +230,13 @@ After 110V/220V power installation is complete, flip the switch upward to power 
 
 ### 6.1 Core Features & Advantages
 
+![](../../assets/images/4d0fb650-2430-434e-a013-7046745ba3ad.png)
+![](../../assets/images/5a9b1f04-a26d-4f91-9066-a40f0f565f85.png)
+![](../../assets/images/30833126-8869-4070-89e9-035752f210e9.png)
+![](../../assets/images/0eb522a6-c930-4e9e-ad3c-f35e90bc6fe5.png)
+![](../../assets/images/72067d30-10aa-42ba-9521-262770985859.png)
+
+
 - Real-Time Monitoring & Analysis: Provides real-time equipment operational data monitoring including vibration, temperature, and other key parameters, with trend charts and FFT spectrum analysis support.
 - **AI Smart Prediction**: Combines AI prediction models to anticipate potential equipment anomalies and failures, reducing maintenance costs and improving operational efficiency.
 - Multi-Platform Support: Enables users to remotely view equipment status via various devices (smartphones, tablets, computers).
@@ -213,17 +244,30 @@ After 110V/220V power installation is complete, flip the switch upward to power 
 
 ### 6.2 Equipment Diagram
 
+![](../../assets/images/71922abb-a453-4eaf-acc8-0e39f327f67c.png)
+
+
 Provides real-time visual equipment status display for quick access to key operational information for each device.
 
 ### **6.3 Monitoring Data**
+
+![](../../assets/images/8e9b8727-f178-45fc-87cf-b613d8a4fe08.png)
+
 
 Presents raw data in tabular format including temperature, vibration, current, and other detailed metrics for further analysis.
 
 ### **6.4 Trend Charts**
 
+![](../../assets/images/98a5b725-a1eb-41c6-b446-11bcf8b2d016.png)
+![](../../assets/images/3f8bce38-1865-4fb4-a7a1-fd492039d7f0.png)
+
+
 Displays equipment operational data trends over time to help users assess long-term equipment performance.
 
 ### **6.5 Carbon Emission Monitoring**
+
+![](../../assets/images/6f6648db-7e18-4396-9d8e-9bcc55291b0e.png)
+
 
 Real-time monitoring of equipment carbon emission data to help enterprises achieve energy-saving and carbon reduction targets.
 
@@ -265,6 +309,17 @@ Real-time integration of earthquake alert information for rapid assessment and e
 - **Automatic Report Generation Settings**
 - **Report Format & Output (PDF)**
 - **Report Content Interpretation Guide**
+
+![](../../assets/images/4496ce7c-590f-44d8-a342-1b1d56d6df2e.png)
+
+![](../../assets/images/f59a85db-2c2f-4de7-845c-64019ac366e6.png)
+
+![](../../assets/images/798a32cf-ed46-4920-a93d-e304045f9d01.png)
+
+![](../../assets/images/140ff412-f2f7-48db-b704-884528790762.png)
+
+![](../../assets/images/2a0d6fe9-d2cb-4212-9f99-161b90476201.png)
+
 
 ---
 
