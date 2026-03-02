@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chiuchau Smart Fan Monitoring System — User Manual"
+---
+
 # Chiuchau Smart Fan Monitoring System — User Manual
 
 ## Cover

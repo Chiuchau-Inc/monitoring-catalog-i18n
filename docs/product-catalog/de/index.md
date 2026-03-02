@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chiuchau Intelligentes Ventilator-Überwachungssystem — Produktkatalog"
+---
+
 # Chiuchau Intelligentes Ventilator-Überwachungssystem — Produktkatalog
 
 ![fan 1.jpg](../../assets/images/25c28296-80d6-46b7-8b65-5b615eaa49ab.jpg)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chiuchau Intelligentes Ventilator-Überwachungssystem — Benutzerhandbuch"
+---
+
 # Chiuchau Intelligentes Ventilator-Überwachungssystem — Benutzerhandbuch
 
 
