@@ -1,7 +1,7 @@
 # 久朝智能风机监测系统型录
 
 
-![fan 1.jpg](attachment:25c28296-80d6-46b7-8b65-5b615eaa49ab:fan_1.jpg)
+![fan 1.jpg](../../assets/images/25c28296-80d6-46b7-8b65-5b615eaa49ab.jpg)
 
 久朝企业有限公司推出的「久朝智能风机监测系统」，是一款专为工业风机设备设计的一站式智慧监控与健康预测解决方案。系统结合高精度传感器、AI异常预测算法与实时数据可视化平台，帮助企业全面掌握设备运行状态，提前预防潜在故障，同时监测设备能耗与碳排放，助力企业实现智能维护与节能减排双重目标。
 
@@ -19,7 +19,7 @@
 
 ### **系统架构**
 
-![模組outline.svg](attachment:35988382-579b-45ba-ae9d-77d29178d0c3:模組outline.svg)
+![模組outline.svg](../../assets/images/35988382-579b-45ba-ae9d-77d29178d0c3.svg)
 
 整体架构包含以下模块：
 
@@ -75,27 +75,27 @@
 
 - **设备图像化**：实时展示设备运行状态，风机健康一目了然
 
-![多平台支援.jpg](attachment:828315f9-6811-4e73-b213-41e97df3579a:多平台支援.jpg)
+![多平台支援.jpg](../../assets/images/828315f9-6811-4e73-b213-41e97df3579a.jpg)
 
 - **原始数据表**：表格呈现振动、温度、电压、电流等数据
 
-![276._軟體操作指南-assetsimage_5 1.jpg](attachment:19d9808b-85d2-49a5-9189-daf2e9c78803:276._軟體操作指南-assetsimage_5_1.jpg)
+![276._軟體操作指南-assetsimage_5 1.jpg](../../assets/images/19d9808b-85d2-49a5-9189-daf2e9c78803.jpg)
 
 - **趋势图+FFT频谱分析**：长期数据趋势分析+频谱图分析
 
-![趨勢.jpg](attachment:c8c1734c-f8e4-4bf0-b562-aed856596c98:趨勢.jpg)
+![趨勢.jpg](../../assets/images/c8c1734c-f8e4-4bf0-b562-aed856596c98.jpg)
 
 - **碳排追踪**：记录设备运行过程中的碳排放数据
 
-![碳排放.jpg](attachment:c1ff8326-d5f6-4ab3-a6f7-3853c4bbdfde:碳排放.jpg)
+![碳排放.jpg](../../assets/images/c1ff8326-d5f6-4ab3-a6f7-3853c4bbdfde.jpg)
 
 - **异常事件记录**：完整记录所有异常事件
 
-![6._軟體操作指南-assetsimage_20 1.jpg](attachment:2b9f1a42-4645-458b-8d5a-b35ff9b3f25e:6._軟體操作指南-assetsimage_20_1.jpg)
+![6._軟體操作指南-assetsimage_20 1.jpg](../../assets/images/2b9f1a42-4645-458b-8d5a-b35ff9b3f25e.jpg)
 
 #### **AI健康预测**
 
-![AI預測.jpg](attachment:b3eb2abd-626b-4121-92a1-4db8f593493d:AI預測.jpg)
+![AI預測.jpg](../../assets/images/b3eb2abd-626b-4121-92a1-4db8f593493d.jpg)
 
 - **实时健康评分**：系统依据ISO 20816标准自动评分健康值
 
@@ -109,21 +109,21 @@
 
 - **通知中心**：所有历史警报随时查看
 
-![通知.jpg](attachment:edf74efd-1dcb-4211-8cfc-31d769fb48ad:通知.jpg)
+![通知.jpg](../../assets/images/edf74efd-1dcb-4211-8cfc-31d769fb48ad.jpg)
 
 - **自定义警报条件**：用户可自行设置报警条件与等级
 
 #### **每月诊断报告**
 
-![6._軟體操作指南-assetsimage_23.jpg](attachment:5ae77e30-157f-4182-8b0d-18b6794d542d:6._軟體操作指南-assetsimage_23.jpg)
+![6._軟體操作指南-assetsimage_23.jpg](../../assets/images/5ae77e30-157f-4182-8b0d-18b6794d542d.jpg)
 
-![6._軟體操作指南-assetsimage_27.jpg](attachment:502df45c-5678-4f21-835a-5dca41759814:6._軟體操作指南-assetsimage_27.jpg)
+![6._軟體操作指南-assetsimage_27.jpg](../../assets/images/502df45c-5678-4f21-835a-5dca41759814.jpg)
 
-![6._軟體操作指南-assetsimage_26.jpg](attachment:d35aa107-ed0d-45bd-a15c-b9e86423df8e:6._軟體操作指南-assetsimage_26.jpg)
+![6._軟體操作指南-assetsimage_26.jpg](../../assets/images/d35aa107-ed0d-45bd-a15c-b9e86423df8e.jpg)
 
-![6._軟體操作指南-assetsimage_25.jpg](attachment:e0ff5799-67c1-42c5-9a74-da3c552838b3:6._軟體操作指南-assetsimage_25.jpg)
+![6._軟體操作指南-assetsimage_25.jpg](../../assets/images/e0ff5799-67c1-42c5-9a74-da3c552838b3.jpg)
 
-![6._軟體操作指南-assetsimage_24.jpg](attachment:c53b2249-e0a9-46b5-b7ce-6985be9371a7:6._軟體操作指南-assetsimage_24.jpg)
+![6._軟體操作指南-assetsimage_24.jpg](../../assets/images/c53b2249-e0a9-46b5-b7ce-6985be9371a7.jpg)
 
 - **自动生成**：每月生成标准化PDF报告
 

@@ -3,7 +3,7 @@
 
 ## Titelseite
 
-![](attachment:ce13f776-26b4-4cf6-8a77-1d9748c98e4e:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d封面.jpg)
+![](../../assets/images/ce13f776-26b4-4cf6-8a77-1d9748c98e4e.jpg)
 
 ### **Inhaltsverzeichnis**
 
@@ -107,7 +107,7 @@ Bitte befolgen Sie diese Sicherheitshinweise strikt, um einen sicheren Betrieb u
 
 ### 3.1 Systemarchitektur
 
-![](attachment:2d4ab7dd-334a-4ff4-9b70-751986f140d4:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d久朝智能風機監測系統使用手冊-assetsimage.png)
+![](../../assets/images/2d4ab7dd-334a-4ff4-9b70-751986f140d4.png)
 
 ### 3.2 Hauptkomponenten des Überwachungsmoduls
 
@@ -123,7 +123,7 @@ Bitte befolgen Sie diese Sicherheitshinweise strikt, um einen sicheren Betrieb u
 
 4.2 Sensorinstallation (Positionswahl & Befestigungsmethoden)
 
-![](attachment:1c15d3ca-264c-40ef-ab27-a2a363893dd2:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d久朝智能風機監測系統使用手冊-assetsimage_2.png)
+![](../../assets/images/1c15d3ca-264c-40ef-ab27-a2a363893dd2.png)
 
 #### 4.2.1 Installationspositionsanleitung
 
@@ -169,7 +169,7 @@ Für Datengenauigkeit und langfristigen stabilen Betrieb müssen Sensoren mit pr
 
 - 4.3.1 Grundlegende Netzwerkanforderungen
 
-![](attachment:c105216e-8645-4302-a4bb-440832a2ab64:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d久朝智能風機監測系統使用手冊-assetsPasted_2025-02-11-15-32-09.webp)
+![](../../assets/images/c105216e-8645-4302-a4bb-440832a2ab64.webp)
 
 - **Hardwarekonfiguration:**
 
@@ -201,7 +201,7 @@ Diese Anleitung bietet vollständige Netzwerk- und Kommunikationseinrichtungsanw
 
 #### 4.4.1 Dreifarbige Statusleuchte
 
-![](attachment:791bc0cd-3312-47e1-b05f-05213e7cfa86:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d久朝智能風機監測系統使用手冊-assetsimage_3.png)
+![](../../assets/images/791bc0cd-3312-47e1-b05f-05213e7cfa86.png)
 
 Die dreifarbige Statusleuchte (Rot, Gelb, Grün) zeigt den Echtzeit-Betriebsstatus der Anlage an und hilft dem Vor-Ort-Personal, den Gesundheitszustand der Anlage und Anomaliealarme schnell zu erfassen. Die korrekte Installationsposition gewährleistet eine klare Sichtbarkeit der Signalleuchten und steigert die Betriebseffizienz und Sicherheit.
 
@@ -219,7 +219,7 @@ Bitte beachten Sie den Abschnitt [Netzwerk- & Kommunikationseinrichtung](https:/
 
 #### 4.4.3 Touch-Display
 
-![](attachment:d2c1961b-4ee3-429a-8b15-13d2109fe8e8:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26dimage_1.png)
+![](../../assets/images/d2c1961b-4ee3-429a-8b15-13d2109fe8e8.png)
 
 Das Touch-Display bietet eine intuitive Bedienoberfläche, über die das Vor-Ort-Personal Echtzeit-Gerätedaten, Alarmstatus und Verlaufsaufzeichnungen einsehen sowie grundlegende Systemeinstellungen und -steuerungen vornehmen kann.
 
@@ -233,7 +233,7 @@ Das Touch-Display bietet eine intuitive und komfortable Bedienerfahrung und hilf
 
 #### 4.4.4 Hochpräziser RJ45-CT-Eingangszähler
 
-![](attachment:aebc6493-3fb1-4ef3-a6f3-40226d6d0ff8:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26dimage_2.png)
+![](../../assets/images/aebc6493-3fb1-4ef3-a6f3-40226d6d0ff8.png)
 
 - **Installationsanleitung für den hochpräzisen RJ45-CT-Eingangszähler**
 
@@ -247,7 +247,7 @@ Das Touch-Display bietet eine intuitive und komfortable Bedienerfahrung und hilf
 
 Nach Abschluss der 110V/220V-Strominstallation den Schalter nach oben umlegen, um einzuschalten.
 
-![](attachment:7fdb32a2-1a09-4e4e-b716-fd95ca9eec17:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d久朝智能風機監測系統使用手冊-assetsimage_6.png)
+![](../../assets/images/7fdb32a2-1a09-4e4e-b716-fd95ca9eec17.png)
 
 - Zum Herunterfahren den Schalter einfach nach unten umlegen, um die Stromversorgung zu unterbrechen. Das interne System führt automatisch den Abschaltvorgang durch — warten Sie ca. 10–15 Sekunden. Nachdem die Relais-Anzeige unten einmal erlischt, kann der nächste Neustart durchgeführt werden.
 
@@ -275,27 +275,27 @@ Nach Abschluss der 110V/220V-Strominstallation den Schalter nach oben umlegen, u
 
 - Echtzeitüberwachung & -analyse
 
-![](attachment:4d0fb650-2430-434e-a013-7046745ba3ad:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage.png)
+![](../../assets/images/4d0fb650-2430-434e-a013-7046745ba3ad.png)
 
-![](attachment:5a9b1f04-a26d-4f91-9066-a40f0f565f85:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26dimage_3.png)
+![](../../assets/images/5a9b1f04-a26d-4f91-9066-a40f0f565f85.png)
 
 Bietet Echtzeit-Betriebsdatenüberwachung der Anlagen, einschließlich Vibration, Temperatur und anderer Schlüsselparameter, mit Unterstützung für Trenddiagramme und FFT-Spektralanalyse.
 
 - **KI-gestützte intelligente Vorhersage**
 
-![](attachment:30833126-8869-4070-89e9-035752f210e9:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_1.png)
+![](../../assets/images/30833126-8869-4070-89e9-035752f210e9.png)
 
 Kombiniert KI-Vorhersagemodelle, um potenzielle Anlagenanomalien und -ausfälle frühzeitig zu erkennen, Wartungskosten zu senken und die Betriebseffizienz zu steigern.
 
 - Multiplattform-Unterstützung
 
-![](attachment:0eb522a6-c930-4e9e-ad3c-f35e90bc6fe5:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_2.png)
+![](../../assets/images/0eb522a6-c930-4e9e-ad3c-f35e90bc6fe5.png)
 
 Ermöglicht Benutzern die Fernüberwachung des Anlagenstatus über verschiedene Endgeräte (Smartphones, Tablets, Computer).
 
 - CO₂-Emissionserfassung
 
-![](attachment:72067d30-10aa-42ba-9521-262770985859:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_3.png)
+![](../../assets/images/72067d30-10aa-42ba-9521-262770985859.png)
 
 Sofortige Alarmbenachrichtigungen bei Anlagenanomalien sowie CO₂-Emissionserfassungsfunktion.
 
@@ -303,25 +303,25 @@ Sofortige Alarmbenachrichtigungen bei Anlagenanomalien sowie CO₂-Emissionserfa
 
 Bietet Echtzeit-Visualisierung des Anlagenstatus für schnellen Zugriff auf wichtige Betriebsinformationen jedes Geräts.
 
-![](attachment:71922abb-a453-4eaf-acc8-0e39f327f67c:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_4.png)
+![](../../assets/images/71922abb-a453-4eaf-acc8-0e39f327f67c.png)
 
 ### **6.3 Überwachungsdaten**
 
 Stellt Rohdaten in Tabellenform dar, einschließlich Temperatur, Vibration, Strom und weiterer detaillierter Kennwerte zur vertieften Analyse.
 
-![](attachment:8e9b8727-f178-45fc-87cf-b613d8a4fe08:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_5.png)
+![](../../assets/images/8e9b8727-f178-45fc-87cf-b613d8a4fe08.png)
 
 ### **6.4 Trenddiagramme**
 
 Zeigt die zeitliche Entwicklung der Anlagenbetriebsdaten, um Benutzern die Beurteilung des langfristigen Gerätezustands zu ermöglichen.
 
-![](attachment:98a5b725-a1eb-41c6-b446-11bcf8b2d016:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_6.png)
+![](../../assets/images/98a5b725-a1eb-41c6-b446-11bcf8b2d016.png)
 
-![](attachment:3f8bce38-1865-4fb4-a7a1-fd492039d7f0:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_7.png)
+![](../../assets/images/3f8bce38-1865-4fb4-a7a1-fd492039d7f0.png)
 
 ### **6.5 CO₂-Emissionsüberwachung**
 
-![](attachment:6f6648db-7e18-4396-9d8e-9bcc55291b0e:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_3_1.png)
+![](../../assets/images/6f6648db-7e18-4396-9d8e-9bcc55291b0e.png)
 
 Echtzeitüberwachung der CO₂-Emissionsdaten der Anlagen, um Unternehmen bei der Erreichung von Energiespar- und CO₂-Reduktionszielen zu unterstützen.
 
@@ -369,15 +369,15 @@ Echtzeit-Integration von Erdbebenalarminformationen zur schnellen Bewertung und 
 
 - **Leitfaden zur Interpretation des Berichtsinhalts**
 
-![](attachment:4496ce7c-590f-44d8-a342-1b1d56d6df2e:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_23.png)
+![](../../assets/images/4496ce7c-590f-44d8-a342-1b1d56d6df2e.png)
 
-![](attachment:f59a85db-2c2f-4de7-845c-64019ac366e6:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_24.png)
+![](../../assets/images/f59a85db-2c2f-4de7-845c-64019ac366e6.png)
 
-![](attachment:798a32cf-ed46-4920-a93d-e304045f9d01:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_25.png)
+![](../../assets/images/798a32cf-ed46-4920-a93d-e304045f9d01.png)
 
-![](attachment:140ff412-f2f7-48db-b704-884528790762:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_26.png)
+![](../../assets/images/140ff412-f2f7-48db-b704-884528790762.png)
 
-![](attachment:2a0d6fe9-d2cb-4212-9f99-161b90476201:久朝智能風機監測系統使用手冊_199377d64b61806199bddd875a74b26d6._軟體操作指南-assetsimage_27.png)
+![](../../assets/images/2a0d6fe9-d2cb-4212-9f99-161b90476201.png)
 
 ---
 

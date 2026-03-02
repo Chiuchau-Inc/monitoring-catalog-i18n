@@ -1,7 +1,7 @@
 # 久朝智能風機監測系統型錄-繁中
 
 
-![fan 1.jpg](attachment:25c28296-80d6-46b7-8b65-5b615eaa49ab:fan_1.jpg)
+![fan 1.jpg](../../assets/images/25c28296-80d6-46b7-8b65-5b615eaa49ab.jpg)
 
 久朝企業有限公司推出的「久朝智能風機監測系統」，是針對工業用風機設備所設計的一站式**智慧監控與健康預測解決方案**。本系統結合**高精度感測器**、**AI異常預測演算法**與**即時數據視覺化平台**，協助企業掌握設備狀態、提前預防潛在故障，並同步監控設備能源使用與碳排放，協助企業達成**智慧維護與節能減碳**雙重目標。
 
@@ -19,7 +19,7 @@
 
 ### **系統架構**
 
-![模組outline.svg](attachment:35988382-579b-45ba-ae9d-77d29178d0c3:模組outline.svg)
+![模組outline.svg](../../assets/images/35988382-579b-45ba-ae9d-77d29178d0c3.svg)
 
 整體架構包含以下模組：
 
@@ -75,27 +75,27 @@
 
 - 設備即時圖像化，風機健康一目了然
 
-![多平台支援.jpg](attachment:828315f9-6811-4e73-b213-41e97df3579a:多平台支援.jpg)
+![多平台支援.jpg](../../assets/images/828315f9-6811-4e73-b213-41e97df3579a.jpg)
 
 - 原始數據表格（Raw Data）：振動、溫度、電壓電流即時呈現
 
-![276._軟體操作指南-assetsimage_5 1.jpg](attachment:19d9808b-85d2-49a5-9189-daf2e9c78803:276._軟體操作指南-assetsimage_5_1.jpg)
+![276._軟體操作指南-assetsimage_5 1.jpg](../../assets/images/19d9808b-85d2-49a5-9189-daf2e9c78803.jpg)
 
 - 長期趨勢圖 + FFT頻譜分析
 
-![趨勢.jpg](attachment:c8c1734c-f8e4-4bf0-b562-aed856596c98:趨勢.jpg)
+![趨勢.jpg](../../assets/images/c8c1734c-f8e4-4bf0-b562-aed856596c98.jpg)
 
 - 碳排追蹤
 
-![碳排放.jpg](attachment:c1ff8326-d5f6-4ab3-a6f7-3853c4bbdfde:碳排放.jpg)
+![碳排放.jpg](../../assets/images/c1ff8326-d5f6-4ab3-a6f7-3853c4bbdfde.jpg)
 
 - 異常事件完整記錄
 
-![6._軟體操作指南-assetsimage_20 1.jpg](attachment:2b9f1a42-4645-458b-8d5a-b35ff9b3f25e:6._軟體操作指南-assetsimage_20_1.jpg)
+![6._軟體操作指南-assetsimage_20 1.jpg](../../assets/images/2b9f1a42-4645-458b-8d5a-b35ff9b3f25e.jpg)
 
 #### **AI健康預測**
 
-![AI預測.jpg](attachment:b3eb2abd-626b-4121-92a1-4db8f593493d:AI預測.jpg)
+![AI預測.jpg](../../assets/images/b3eb2abd-626b-4121-92a1-4db8f593493d.jpg)
 
 - 即時計算設備健康值，標準化評估風機狀態
 
@@ -107,25 +107,25 @@
 
 - 事件推播到**Line群組**與**Email**
 
-![6._軟體操作指南-assetsimage_17 1.jpg](attachment:67001199-539b-4ae6-853a-a0783a6eaf12:6._軟體操作指南-assetsimage_17_1.jpg)
+![6._軟體操作指南-assetsimage_17 1.jpg](../../assets/images/67001199-539b-4ae6-853a-a0783a6eaf12.jpg)
 
 - 右上角通知中心隨時查看所有警報紀錄
 
-![通知.jpg](attachment:edf74efd-1dcb-4211-8cfc-31d769fb48ad:通知.jpg)
+![通知.jpg](../../assets/images/edf74efd-1dcb-4211-8cfc-31d769fb48ad.jpg)
 
 - 使用者可自訂警報等級與條件
 
 #### **每月診斷報告**
 
-![6._軟體操作指南-assetsimage_23.jpg](attachment:5ae77e30-157f-4182-8b0d-18b6794d542d:6._軟體操作指南-assetsimage_23.jpg)
+![6._軟體操作指南-assetsimage_23.jpg](../../assets/images/5ae77e30-157f-4182-8b0d-18b6794d542d.jpg)
 
-![6._軟體操作指南-assetsimage_27.jpg](attachment:502df45c-5678-4f21-835a-5dca41759814:6._軟體操作指南-assetsimage_27.jpg)
+![6._軟體操作指南-assetsimage_27.jpg](../../assets/images/502df45c-5678-4f21-835a-5dca41759814.jpg)
 
-![6._軟體操作指南-assetsimage_26.jpg](attachment:d35aa107-ed0d-45bd-a15c-b9e86423df8e:6._軟體操作指南-assetsimage_26.jpg)
+![6._軟體操作指南-assetsimage_26.jpg](../../assets/images/d35aa107-ed0d-45bd-a15c-b9e86423df8e.jpg)
 
-![6._軟體操作指南-assetsimage_25.jpg](attachment:e0ff5799-67c1-42c5-9a74-da3c552838b3:6._軟體操作指南-assetsimage_25.jpg)
+![6._軟體操作指南-assetsimage_25.jpg](../../assets/images/e0ff5799-67c1-42c5-9a74-da3c552838b3.jpg)
 
-![6._軟體操作指南-assetsimage_24.jpg](attachment:c53b2249-e0a9-46b5-b7ce-6985be9371a7:6._軟體操作指南-assetsimage_24.jpg)
+![6._軟體操作指南-assetsimage_24.jpg](../../assets/images/c53b2249-e0a9-46b5-b7ce-6985be9371a7.jpg)
 
 - 每月自動生成標準化**PDF報表**
 
